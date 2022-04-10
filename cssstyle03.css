@@ -1,0 +1,13 @@
+body
+{
+    background-image: linear-gradient(to right, transparent, rgb(176, 44, 29));
+}
+
+.newButton
+{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(114, 114, 212);
+    border-radius: 12px;
+    border-color: rgb(51, 105, 105);
+}
